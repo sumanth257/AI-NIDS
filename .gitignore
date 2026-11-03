@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.pkl
+network_traffic.csv
+alerts.csv
+alerts_backup.csv
+alerts_old.csv
